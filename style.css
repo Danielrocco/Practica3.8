@@ -1,0 +1,62 @@
+h1.titulo {
+    text-align: center;
+    color:brown;
+}
+
+body {
+    background-color: bisque;
+}
+
+a.sus {
+    color: brown;
+}
+
+h3.daniel {
+    color: red;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+p.texto {
+    color: red;
+}
+
+blockquote.texto {
+    color: red;
+}
+
+h3.carta {
+    position:relative;
+    left: 350px;
+    top: 220px;
+}
+
+h3.cafe {
+    position:relative;
+    left: 840px;
+    top: 220px;
+}
+
+h3.contacto {
+    position:relative;
+    left: 1400px;
+    top: 220px;
+}
+
+img.menu {
+    position:relative;
+    left: 400px;
+}
+
+img.cafe {
+    position: relative;
+    left: 900px;
+}
+
+img.contacto {
+    position:relative;
+    left: 1500px;
+}
